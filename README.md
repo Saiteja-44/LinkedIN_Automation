@@ -28,7 +28,10 @@ The LinkedIn Automation Tool consists of two main Python scripts:
 ## Install dependencies:
 
 Ensure Python 3.x is installed. Install required Python packages using pip:
-pip install -r requirements.txt
+
+    ```bash
+    pip install -r requirements.txt
+    ```
 
 Download Chrome WebDriver:
 Download the appropriate Chrome WebDriver from Chromedriver Downloads and place chromedriver.exe in the project directory.
@@ -38,7 +41,10 @@ Download the appropriate Chrome WebDriver from Chromedriver Downloads and place 
 Run the graphical interface:
 
 Execute the following command in the terminal:
-python gui.py
+
+    ```bash
+    python gui.py
+    ```
 
 Fill in the required details in the GUI:
 
