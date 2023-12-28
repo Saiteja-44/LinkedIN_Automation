@@ -20,7 +20,7 @@ The LinkedIn Automation Tool consists of two main Python scripts:
 
 1. **Clone the repository:**
 
-   ```bash
+   ```
    git clone https://github.com/your-username/linkedin-automation.git
    cd linkedin-automation
    ```
@@ -29,7 +29,7 @@ The LinkedIn Automation Tool consists of two main Python scripts:
 
 Ensure Python 3.x is installed. Install required Python packages using pip:
 
-    ```bash
+    ```
     pip install -r requirements.txt
     ```
 
@@ -42,7 +42,7 @@ Run the graphical interface:
 
 Execute the following command in the terminal:
 
-    ```bash
+    ```
     python gui.py
     ```
 
